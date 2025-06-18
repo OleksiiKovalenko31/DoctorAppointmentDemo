@@ -1,0 +1,38 @@
+[
+  {
+    "IllnessType": 5,
+    "AdditionalInfo": null,
+    "Address": "Berlin",
+    "Name": "Alex",
+    "Surname": "Moriwund",
+    "Phone": "+48 050 639 658",
+    "Email": "test@doc.com",
+    "Id": 1,
+    "CreatedAt": "2025-06-18T21:09:09.9050898+02:00",
+    "UpdatedAt": "2025-06-18T21:45:12.6864305+02:00"
+  },
+  {
+    "IllnessType": 2,
+    "AdditionalInfo": "No additional info",
+    "Address": "Warshawa",
+    "Name": "Maks",
+    "Surname": "Zabrawski",
+    "Phone": "+35 555 987 231",
+    "Email": "kolos34@trok.com",
+    "Id": 2,
+    "CreatedAt": "2025-06-18T21:47:04.3552284+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 3,
+    "AdditionalInfo": "No additional info",
+    "Address": "NewYork",
+    "Name": "Dred",
+    "Surname": "Durak",
+    "Phone": "+78 554",
+    "Email": "rtfvn@knm.com",
+    "Id": 3,
+    "CreatedAt": "2025-06-18T21:52:09.1425581+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Vasya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 12,
+    "CreatedAt": "2025-06-09T22:43:29.3605554+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Myroslav",
+    "Surname": "Zakopan",
+    "Phone": null,
+    "Email": null,
+    "Id": 15,
+    "CreatedAt": "2025-06-09T22:49:17.9432936+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 4,
+    "Experience": 5,
+    "Salary": 2000.0,
+    "Name": "Alex",
+    "Surname": "Ranger",
+    "Phone": null,
+    "Email": null,
+    "Id": 18,
+    "CreatedAt": "2025-06-18T10:45:17.1980174+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 2,
+    "Experience": 1,
+    "Salary": 2000.0,
+    "Name": "Lorey",
+    "Surname": "Pompord",
+    "Phone": null,
+    "Email": null,
+    "Id": 19,
+    "CreatedAt": "2025-06-18T18:26:43.5569162+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 4,
+    "Salary": 2000.0,
+    "Name": "Mark",
+    "Surname": "Hrom",
+    "Phone": null,
+    "Email": null,
+    "Id": 20,
+    "CreatedAt": "2025-06-18T18:27:06.5447193+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 4,
+    "Experience": 0,
+    "Salary": 0.0,
+    "Name": "Adam",
+    "Surname": "Surewal",
+    "Phone": null,
+    "Email": null,
+    "Id": 21,
+    "CreatedAt": "2025-06-18T18:44:09.791031+02:00",
+    "UpdatedAt": "2025-06-18T18:55:19.1035736+02:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 10,
+    "Salary": 50000.0,
+    "Name": "Victoriia",
+    "Surname": "Kovalenko",
+    "Phone": "+48 884 010 983",
+    "Email": "roder.levika@gmail.com",
+    "Id": 22,
+    "CreatedAt": "2025-06-18T19:13:09.4381827+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

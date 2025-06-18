@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoctorAppointmentDemo.Domain\DoctorAppointmentDemo.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DoctorAppointmentDemo.Domain">
+      <HintPath>..\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="DoctorAppointmentDemo.Service">
+      <HintPath>..\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
